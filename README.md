@@ -46,7 +46,7 @@ The project consists of several files and components:
   
 # ScreenShots
 
-![ScreenShot 3](S3.jpg)
+![ScreenShot 3](S3.png)
 ![ScreenShot 1](S1.png)
 ![ScreenShot 2](S2.png)
 
